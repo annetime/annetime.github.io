@@ -9840,6 +9840,10 @@ button.bg-dark:focus {
   color: #fff !important;
 }
 
+.text-etc1 {
+    color: #adb5bd !important;
+}
+
 .text-etc {
     font-size: 0.9rem;
     color: #adb5bd !important;
